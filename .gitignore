@@ -1,0 +1,6 @@
+# Ignore PostgreSQL-related files
+*.sql
+*.backup
+*.log
+*.pid
+pgdata/
